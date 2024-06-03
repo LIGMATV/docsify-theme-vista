@@ -16,7 +16,7 @@ Bring back the old Aero theme in Docsify.
 
 > [!NOTE]
 > Just to be safe, please use your downloaded version.
-> You can download the navbar-fixed.css <a href="https://cdn.jsdelivr.net/gh/LIGMATV/docsify-theme-vista@latest/vista.css" download>here</a>.
+> You can download the vista.css <a href="https://cdn.jsdelivr.net/gh/LIGMATV/docsify-theme-vista@latest/vista.css" download>here</a>.
 
 # Showcase
 
