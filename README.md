@@ -7,6 +7,7 @@ Bring back the old Aero theme in Docsify.
 
 - This theme inspired by :
   - [7.css](https://khang-nd.github.io/7.css/)
+  - [Aero Box Shadow](https://stackoverflow.com/a/4418359)
 
 # Install
  
